@@ -6,8 +6,8 @@
 </description>
     <link>http://yourdomain.com/</link>
     <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 17 Nov 2015 22:56:50 +0000</pubDate>
-    <lastBuildDate>Tue, 17 Nov 2015 22:56:50 +0000</lastBuildDate>
+    <pubDate>Tue, 17 Nov 2015 23:48:04 +0000</pubDate>
+    <lastBuildDate>Tue, 17 Nov 2015 23:48:04 +0000</lastBuildDate>
     <generator>Jekyll v3.0.0</generator>
     
       <item>
@@ -35,6 +35,41 @@
         <category>jekyll</category>
         
         <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>Hello World</title>
+        <description>&lt;h1 id=&quot;hello-world&quot;&gt;Hello world&lt;/h1&gt;
+
+&lt;h1 id=&quot;this-is-the-first-blog&quot;&gt;This is the first blog&lt;/h1&gt;
+
+&lt;p&gt;to test:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;github pages&lt;/li&gt;
+  &lt;li&gt;markdown&lt;/li&gt;
+  &lt;li&gt;jekyll&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;code&gt;python
+# python code to test markdown code highlight
+def test(test_case=True):
+    for i in range(10):
+        print &quot;hello&quot;
+    pass
+&lt;/code&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 17 Nov 2015 00:00:00 +0000</pubDate>
+        <link>http://yourdomain.com/jekyll/test/2015/11/17/hello-world.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/jekyll/test/2015/11/17/hello-world.html</guid>
+        
+        <category>test</category>
+        
+        
+        <category>jekyll</category>
+        
+        <category>test</category>
         
       </item>
     
