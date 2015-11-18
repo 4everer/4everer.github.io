@@ -2,6 +2,7 @@
 layout: post
 title:  "Django Blog Tutorial"
 tags: python, django, web
+categories: programming
 ---
 
 Django Blog Tutorial - the Next Generation - Part 1

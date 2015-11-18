@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Hello World"
-categories: jekyll test
+categories: others
 tags: test
 ---
 

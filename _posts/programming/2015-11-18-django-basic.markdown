@@ -2,6 +2,7 @@
 layout: post
 title:  "Django Basic"
 tags: python, django, web
+categories: programming
 ---
 
 

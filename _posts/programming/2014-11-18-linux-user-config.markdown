@@ -2,6 +2,7 @@
 layout: post
 title:  "Linux user config"
 tags: linux
+categories: programming
 ---
 
 *on Ubuntu 12.04*  
