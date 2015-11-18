@@ -21,6 +21,7 @@ permalink: /:categories/:year/:month/:title
 
 # Build settings
 markdown: redcarpet
+markdown_ext: markdown,md
 highlighter: pygments
 # redcarpet config
 redcarpet:

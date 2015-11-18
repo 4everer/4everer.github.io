@@ -16,7 +16,7 @@ to test:
 - markdown
 - jekyll
 
-```python
+``` python
 # python code to test markdown code highlight
 def test(test_case=True):
     for i in range(10):
