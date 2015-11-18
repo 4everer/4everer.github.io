@@ -21,8 +21,23 @@ permalink: /:categories/:year/:month/:title
 
 # Build settings
 markdown: redcarpet
-markdown_ext: markdown,md
+markdown_ext: markdown
 highlighter: pygments
 # redcarpet config
 redcarpet:
   extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "strikethrough", "superscript", "with_toc_data", "highlight", "prettify"]
+
+# defaults:
+#   -
+#     scope:
+#       path: ""
+#       type: "posts"
+#     values:
+#       layout: "my-site"
+#   -
+#     scope:
+#       path: "projects"
+#       type: "pages" # previously `page` in Jekyll 2.2.
+#     values:
+#       layout: "project" # overrides previous default layout
+#       author: "Mr. Hyde"
