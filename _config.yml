@@ -9,7 +9,7 @@ redcarpet:
   extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "strikethrough", "superscript", "with_toc_data", "highlight", "prettify"]
 
 
-# 作者信息
+# Author
 author: 
   name: ksint
   email: ever4everest@gmail.com
@@ -19,14 +19,13 @@ author:
   twitter_username: Guang_bio
   github_username:  4everer
 
-# 站点信息
+# site
 title: ksint
 description: ksint
 rss_url: /pages/atom.xml
 
-# avatar头像及Favicon
+# avatar
 avatar: /assets/avatar.png
-favicon: http://7u2ho6.com1.z0.glb.clouddn.com/site-favicon.ico
 
 # disqus 设置
 disqus:
