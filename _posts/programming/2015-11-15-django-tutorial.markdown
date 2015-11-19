@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Django Blog Tutorial"
-tags: python, django, web
+tags: python django web
 categories: programming
 ---
 
