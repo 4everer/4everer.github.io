@@ -1,23 +1,4 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
-
-# Site settings
-title: Ksint Bio
-email: ever4everest@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: Guang_bio
-github_username:  4everer
-
-permalink: /:categories/:year/:month/:title
+permalink: /:year/:month/:day/:title.html
 
 # Build settings
 markdown: redcarpet
@@ -27,17 +8,26 @@ highlighter: pygments
 redcarpet:
   extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "strikethrough", "superscript", "with_toc_data", "highlight", "prettify"]
 
-# defaults:
-#   -
-#     scope:
-#       path: ""
-#       type: "posts"
-#     values:
-#       layout: "my-site"
-#   -
-#     scope:
-#       path: "projects"
-#       type: "pages" # previously `page` in Jekyll 2.2.
-#     values:
-#       layout: "project" # overrides previous default layout
-#       author: "Mr. Hyde"
+
+# 作者信息
+author: 
+  name: ksint
+  email: ever4everest@gmail.com
+  # link: http://yansu.org
+  # twitter: http://weibo.com/yansu0711
+  # github: http://github.com/suyan
+  twitter_username: Guang_bio
+  github_username:  4everer
+
+# 站点信息
+title: ksint
+description: ksint
+rss_url: /pages/atom.xml
+
+# avatar头像及Favicon
+avatar: /assets/avatar.png
+favicon: http://7u2ho6.com1.z0.glb.clouddn.com/site-favicon.ico
+
+# disqus 设置
+disqus:
+  shortname: gaugn
