@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "EMBL Course Note"
-tags: programming, git, python, linux
+tags: [programming, git, python, linux]
 categories: programming
 ---
 

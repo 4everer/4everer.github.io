@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "VPS Configuration"
-tags: VPS, linux
+tags: [VPS, linux]
 categories: resource
 ---
 

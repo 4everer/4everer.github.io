@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Django Basic"
-tags: python, django, web
+tags: [python, django, web]
 categories: programming
 ---
 
@@ -60,4 +60,4 @@ Then edit mysite/settings.py, add entry in **INSTALLED_APPS**
 
 ### views and URLconfs
 
-![About MVC](/assets/djangoBasic_url-dispatch.png)
+![About MVC](/assets/resources/djangoBasic_url-dispatch.png)

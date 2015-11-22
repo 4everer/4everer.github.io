@@ -1,32 +1,68 @@
-permalink: /:year/:month/:day/:title.html
+title:            Ksint
+description:      Describe your website here.
+disqus_shortname: gaugn
+reading_time:     true
+words_per_minute: 200
+# Your site's domain goes here (eg: //mmistakes.github.io, http://mademistakes.com, etc)
+# When testing locally leave blank or use http://localhost:4000
+url:
 
-# Build settings
-markdown: redcarpet
-markdown_ext: markdown
+# Owner/author information
+owner:
+  name:           Guang
+  avatar:         ../assets/resources/avatar.png
+  bio:            "Your bio goes here. It shouldn't be super long but a good two sentences or two should suffice."
+  email:          ever4everest@gmail.com
+  # Social networking links used in footer. Update and remove as you like.
+  twitter: Guang_bio
+  facebook:
+  github: 4everer
+  stackexchange:
+  linkedin:
+  instagram:
+  flickr:
+  tumblr:
+  # google plus id, include the '+', eg +mmistakes
+  google_plus:    +ever4everest
+
+# Background image to be tiled on all pages
+background:
+
+# Analytics and webmaster tools stuff goes here
+google_analytics:
+google_verify:
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+bing_verify:
+
+# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone:
+future:      true
 highlighter: pygments
-# redcarpet config
+markdown:    redcarpet
+gems:
+  - jekyll-sitemap
+sass:
+  sass_dir: _sass
+  style: compressed
+
+# https://github.com/mojombo/jekyll/wiki/Permalinks
+permalink:   /:categories/:title/
+
+# Amount of post to show on home page
+paginate: 5
+
 redcarpet:
   extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "strikethrough", "superscript", "with_toc_data", "highlight", "prettify"]
 
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules"]
 
-# Author
-author: 
-  name: ksint
-  email: ever4everest@gmail.com
-  # link: http://yansu.org
-  # twitter: http://weibo.com/yansu0711
-  # github: http://github.com/suyan
-  twitter_username: Guang_bio
-  github_username:  4everer
-
-# site
-title: ksint
-description: ksint
-rss_url: /pages/atom.xml
-
-# avatar
-avatar: /assets/avatar.png
-
-# disqus 设置
-disqus:
-  shortname: gaugn
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: "default"
+      tags: [default]
+      comments: true
+      date: NOW

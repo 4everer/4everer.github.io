@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "HaCaT Cells Protocol"
-tags: tissue culture, method
+tags: [tissue culture, method]
 categories: research
 ---
 
@@ -11,7 +11,7 @@ HaCaT cells
 *from Jose P0 & Gaia P5*
 
 Spontaneously transformed aneuploid immortal keratinocyte cell line from adult human skin
-[paper](/assets/HaCaT_Boucamp_1988_ger.pdf)
+[paper](/assets/resources/HaCaT_Boucamp_1988_ger.pdf)
 
 ## Media
 It can be kept in normal 10% DMEM, 5% CO2. However, it is better to kept them in low calcium condition where they are no longer able to differentiate to corneocyte so that the population is maintained and transfection is easier.
@@ -43,4 +43,4 @@ rotate 1 hour @ 4 degree
 filter before use (to remove chelex)
 
 ## Grow Monolayer
-It is straightforward to grow monolayer. For my case, I want them to grow into monolayer after my 72 hour transfection. I seed 5000 cells in one well of 96 well-plate, transfecting them the next day. Then I will have good monolayer by the end of experiment. 
+It is straightforward to grow monolayer. For my case, I want them to grow into monolayer after my 72 hour transfection. I seed 5000 cells in one well of 96 well-plate, transfecting them the next day. Then I will have good monolayer by the end of experiment.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Django Blog Tutorial"
-tags: python django web
+tags: [python, django, web]
 categories: programming
 ---
 
@@ -44,7 +44,7 @@ $ virtualenv venv --distribute
 $ source venv/bin/activate
 $ pip install django-toolbelt
 ```
-Once the installation finish, 
+Once the installation finish,
 `$ pip freeze > requirements.txt`
 
 Next, we’ll commit these changes with Git:
@@ -111,7 +111,7 @@ $ python manage.py startapp blogengine
 ```
 
 ## An introduction to MVC
-![About MVC](/assets/djangoBasic_url-dispatch.png)
+![About MVC](/assets/resources/djangoBasic_url-dispatch.png)
 
 MVC is a common pattern used in web development. Many web development frameworks can be loosely described as MVC, including Django, Rails, CodeIgniter, Laravel and Symfony, as well as some client-side frameworks like Backbone.js. The basic concept is that a web app is divided into three basic components:
 
@@ -131,7 +131,7 @@ Some text
 
 Now, we could just jump straight into creating our first model, but we’re going to make a point of following the practices of test-driven development here. The basic concept of TDD is that you write a failing test before writing any code, then you write the code to pass that test afterwards. It does make things a bit slower, but it’s all too easy to neglect writing tests at all if you leave it till later.
 
-If you take a look in the **blogengine** folder you’ll notice there’s a file called **tests.py**. 
+If you take a look in the **blogengine** folder you’ll notice there’s a file called **tests.py**.
 
 It’s worth taking a little time to plan out what we want to test from our post model. Each post object will have the attributes I mentioned above, and what we want to be able to do is test that we can:
 
@@ -195,7 +195,7 @@ python manage.py migrate
 run the test
 `python managy.py test`
 
-we can use 
+we can use
 `python manage.py sqlmigrate blogengine 0001`
 to see the migrations
 
