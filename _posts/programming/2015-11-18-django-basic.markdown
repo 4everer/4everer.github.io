@@ -6,8 +6,8 @@ categories: programming
 ---
 
 
-Django Basics
-=====
+<!-- Django Basics
+===== -->
 
 ## preparation
 
