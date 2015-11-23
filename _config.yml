@@ -1,6 +1,6 @@
 title:            Ksint
 description:      Describe your website here.
-disqus_shortname: gaugn
+disqus_shortname: 4everer
 reading_time:     true
 words_per_minute: 200
 # Your site's domain goes here (eg: //mmistakes.github.io, http://mademistakes.com, etc)
@@ -64,5 +64,4 @@ defaults:
     values:
       layout: "default"
       tags: [default]
-      comments: true
       date: NOW
