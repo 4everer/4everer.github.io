@@ -1,5 +1,5 @@
 title:            Ksint
-description:      Describe your website here.
+description:      Blog of biology, data science, programming and FUN
 disqus_shortname: 4everer
 reading_time:     true
 words_per_minute: 200
@@ -11,7 +11,7 @@ url:
 owner:
   name:           Guang
   avatar:         ../assets/resources/avatar.png
-  bio:            "Your bio goes here. It shouldn't be super long but a good two sentences or two should suffice."
+  bio:            "cell biology, data science, programming and FUN"
   email:          ever4everest@gmail.com
   # Social networking links used in footer. Update and remove as you like.
   twitter: Guang_bio
