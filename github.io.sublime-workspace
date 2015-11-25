@@ -1,0 +1,1041 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"dj",
+				"django_basic"
+			],
+			[
+				"not",
+				"notes"
+			],
+			[
+				"qui",
+				"quickSortInplace	function"
+			],
+			[
+				"inp",
+				"inputStr	statement"
+			],
+			[
+				"quick",
+				"quickSort	function"
+			],
+			[
+				"quic",
+				"quickSort	function"
+			],
+			[
+				"tes",
+				"test_ar	statement"
+			],
+			[
+				"new",
+				"newRight	statement"
+			],
+			[
+				"to",
+				"toString"
+			],
+			[
+				"tri",
+				"trianglesN"
+			],
+			[
+				"tr",
+				"trianglesN"
+			],
+			[
+				"d",
+				"drawCanvas"
+			],
+			[
+				"ca",
+				"canvasCor"
+			],
+			[
+				"def",
+				"defineTri"
+			],
+			[
+				"de",
+				"defineTri"
+			],
+			[
+				"find",
+				"findCol"
+			],
+			[
+				"fin",
+				"findCol"
+			],
+			[
+				"ori",
+				"oriTri"
+			],
+			[
+				"pasc",
+				"pascalOneRow"
+			],
+			[
+				"isa",
+				"isalpha	function"
+			],
+			[
+				"cOthe",
+				"cOtherValidAna	statement"
+			],
+			[
+				"aa",
+				"anaPairAcc	statement"
+			],
+			[
+				"re",
+				"result	statement"
+			],
+			[
+				"sub",
+				"subStringRestExceptOriginal	statement"
+			],
+			[
+				"subString",
+				"subString	statement"
+			],
+			[
+				"s",
+				"string	param"
+			],
+			[
+				"all",
+				"allSubString	function"
+			],
+			[
+				"len",
+				"length	statement"
+			],
+			[
+				"str",
+				"string	forflow"
+			],
+			[
+				"an",
+				"answer	forflow"
+			],
+			[
+				"num",
+				"numAnagramPair	function"
+			],
+			[
+				"te",
+				"testString	statement"
+			],
+			[
+				"a",
+				"answer"
+			],
+			[
+				"tail",
+				"tailNew	statement"
+			],
+			[
+				"fi",
+				"firstLagerThan_t	statement"
+			],
+			[
+				"fil",
+				"filter	function"
+			],
+			[
+				"word",
+				"wordLst	statement"
+			],
+			[
+				"test",
+				"testWord	statement"
+			],
+			[
+				"col",
+				"colOuter"
+			],
+			[
+				"ro",
+				"rotateTimes"
+			],
+			[
+				"rota",
+				"rowLast"
+			],
+			[
+				"rote",
+				"rotateTimes"
+			],
+			[
+				"c",
+				"col	statement"
+			],
+			[
+				"row",
+				"rowLast"
+			],
+			[
+				"core",
+				"coreGridShape	function"
+			],
+			[
+				"co",
+				"colOuterLeft	statement"
+			],
+			[
+				"cor",
+				"isCoreGrid"
+			],
+			[
+				"gr",
+				"gridStr	statement"
+			],
+			[
+				"mid",
+				"middleStr"
+			],
+			[
+				"in",
+				"inner	statement"
+			],
+			[
+				"get",
+				"getRowNum	function"
+			],
+			[
+				"fis",
+				"first	statement"
+			],
+			[
+				"qu",
+				"Queue	class"
+			],
+			[
+				"lo",
+				"lowerBound	statement"
+			],
+			[
+				"ms",
+				"msgFilled	statement"
+			],
+			[
+				"enc",
+				"encryptedMsg	statement"
+			],
+			[
+				"le",
+				"length	statement"
+			],
+			[
+				"if",
+				"ifKaprekar	function"
+			],
+			[
+				"mos",
+				"mostCommon3"
+			],
+			[
+				"pl",
+				"playerS	statement"
+			],
+			[
+				"pla",
+				"player_answer"
+			],
+			[
+				"round",
+				"rounds	statement"
+			],
+			[
+				"st",
+				"strat	statement"
+			],
+			[
+				"med",
+				"medianPlayer	statement"
+			],
+			[
+				"iter",
+				"iterations	statement"
+			],
+			[
+				"sumatra",
+				"SumatraPDF"
+			],
+			[
+				"sc",
+				"score"
+			],
+			[
+				"ope",
+				"operator	module"
+			],
+			[
+				"cal",
+				"calScore	function"
+			],
+			[
+				"pa",
+				"pattern	statement"
+			],
+			[
+				"ma",
+				"match	statement"
+			],
+			[
+				"gri",
+				"gridBaseOneLine	statement"
+			],
+			[
+				"grid",
+				"gridPattern	statement"
+			],
+			[
+				"read",
+				"readFile	function"
+			],
+			[
+				"inter",
+				"interval	statement"
+			],
+			[
+				"ser",
+				"searchFunRealRe	function"
+			],
+			[
+				"loc",
+				"locLst	statement"
+			],
+			[
+				"sear",
+				"searchFun4	function"
+			],
+			[
+				"patt",
+				"patternSearch	function"
+			],
+			[
+				"rw",
+				"rowNum"
+			],
+			[
+				"matr",
+				"matrixSubPool	statement"
+			],
+			[
+				"al",
+				"allArray	statement"
+			],
+			[
+				"as",
+				"asarray	function"
+			],
+			[
+				"ge",
+				"generateAllSubMatrix	function"
+			],
+			[
+				"matrix",
+				"matrixPool	statement"
+			],
+			[
+				"gridB",
+				"gridBase"
+			],
+			[
+				"G",
+				"grid"
+			],
+			[
+				"C",
+				"Counter	class"
+			],
+			[
+				"di",
+				"digitsNum	statement"
+			],
+			[
+				"ex",
+				"expectedDate	statement"
+			],
+			[
+				"ret",
+				"returnedDate	statement"
+			],
+			[
+				"stair",
+				"stairs	statement"
+			],
+			[
+				"sum",
+				"sumDiag1	statement"
+			],
+			[
+				"inpu",
+				"inputNum	statement"
+			],
+			[
+				"point",
+				"pointLocation	statement"
+			],
+			[
+				"myM",
+				"myMapValues"
+			],
+			[
+				"imut",
+				"immutableSet"
+			],
+			[
+				"fid",
+				"findByName"
+			],
+			[
+				"route",
+				"routea"
+			],
+			[
+				"brae",
+				"break_ring	statement"
+			],
+			[
+				"brea",
+				"break_list	statement"
+			],
+			[
+				"most",
+				"most_common	statement"
+			],
+			[
+				"ring",
+				"ring_list	statement"
+			],
+			[
+				"rin",
+				"ringset_list	statement"
+			],
+			[
+				"mo",
+				"most_common	function"
+			],
+			[
+				"break",
+				"break_list"
+			],
+			[
+				"random",
+				"random_break	statement"
+			],
+			[
+				"ran",
+				"randrange	statement"
+			],
+			[
+				"input",
+				"input_case	param"
+			],
+			[
+				"df",
+				"df_test	statement"
+			],
+			[
+				"set",
+				"set_xlabel"
+			],
+			[
+				"y",
+				"ylabel	function"
+			],
+			[
+				"x",
+				"xlabel	function"
+			],
+			[
+				"all_r",
+				"all_Raw	function"
+			],
+			[
+				"rat",
+				"ratio_hist	function"
+			],
+			[
+				"df_",
+				"df_all_filtered"
+			],
+			[
+				"op",
+				"operator	module"
+			],
+			[
+				"xl",
+				"xlim"
+			],
+			[
+				"uni",
+				"unicode	class"
+			],
+			[
+				"u",
+				"unique	statement"
+			],
+			[
+				"k",
+				"kmeans_pp"
+			],
+			[
+				"sk",
+				"sklearn	module"
+			],
+			[
+				"ce",
+				"cellNumber	statement"
+			],
+			[
+				"py",
+				"pyplot	module"
+			],
+			[
+				"mat",
+				"matplotlib	module"
+			],
+			[
+				"p",
+				"pylab"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/D/Document/personal/love/writingMD/mdWritingForBBaPP.sublime-project",
+			"settings":
+			{
+				"buffer_size": 87,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/User/anaconda_building.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/anaconda_building.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				],
+				[
+					"Packages/User/MATLAB.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/MATLAB.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"last_filter": "git",
+		"selected_items":
+		[
+			[
+				"git",
+				"Git: Gui"
+			],
+			[
+				"mar",
+				"Set Syntax: Markdown GFM"
+			],
+			[
+				"html",
+				"HTMLBeautify"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"latex",
+				"LaTeXTools: View PDF"
+			],
+			[
+				"markdown",
+				"Set Syntax: MultiMarkdown"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"show",
+				"Show Scala Worksheet"
+			],
+			[
+				"pac",
+				"Package Control: Remove Package"
+			],
+			[
+				"python",
+				"Set Syntax: Python"
+			],
+			[
+				"py",
+				"Set Syntax: Python"
+			],
+			[
+				"insa",
+				"Package Control: Install Package"
+			],
+			[
+				"re",
+				"Package Control: Remove Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"evernote",
+				"Evernote: Search Note"
+			]
+		],
+		"width": 386.0
+	},
+	"console":
+	{
+		"height": 183.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/Document/repo/site/4everer.github.io"
+	],
+	"file_history":
+	[
+		"/D/Document/personal/love/writingMD/mdWritingForBBaPP.sublime-project",
+		"/D/Document/personal/love/writingMD/Aberdeen Asset Management.md",
+		"/D/Document/personal/love/writingMD/applicationProgress.md",
+		"/D/Document/personal/love/writingMD/openQuestions.md",
+		"/D/Document/repo/site/4everer.github.io/_posts/reading/2015-11-23-Hands-on-dplyr-tutorial-R.md",
+		"/D/Document/repo/site/4everer.github.io/_posts/reading/2015-11-23-tidy-in-R.md",
+		"/D/Document/repo/site/4everer.github.io/_drafts/shell-config-mac.markdown",
+		"/D/Document/repo/site/4everer.github.io/_drafts/shell-config-windows.markdown",
+		"/D/Document/repo/site/4everer.github.io/Gemfile",
+		"/D/Document/repo/site/4everer.github.io/.gitignore",
+		"/C/Users/guang/_vimrc",
+		"/D/Document/personal/love/writingMD/fromOld/student union",
+		"/D/Document/repo/site/4everer.github.io/index.markdown",
+		"/D/Document/repo/other/4everer.github.io/_config.yml",
+		"/D/Document/repo/other/fengzhichu-theme/blog/category/design.md",
+		"/D/Document/repo/other/fengzhichu-theme/_config.yml",
+		"/D/Document/repo/other/4everer.github.io/_includes/footer.html",
+		"/D/Document/repo/site/4everer.github.io/_includes/nav.html",
+		"/D/Document/repo/site/4everer.github.io/_includes/header.html",
+		"/D/Document/repo/site/4everer.github.io/_config.yml",
+		"/D/Document/repo/other/fengzhichu-theme/_includes/header.html",
+		"/D/Document/repo/other/fengzhichu-theme/_includes/head.html",
+		"/D/Document/repo/site/SinglePaged/index.html",
+		"/D/Document/repo/site/SinglePaged/_posts/2000-01-01-intro.md",
+		"/D/Document/repo/site/SinglePaged/_posts/2000-01-02-story.md",
+		"/D/Document/repo/site/SinglePaged/_posts/2000-01-03-Date.md",
+		"/D/Document/repo/other/karenandscott.github.io/_config.yml",
+		"/D/Document/repo/site/SinglePaged/_config.yml",
+		"/D/Document/repo/site/SinglePaged/_posts/2015-11-18-art.md",
+		"/D/Document/repo/site/SinglePaged/_posts/test.md",
+		"/D/Document/repo/4everer.github.io/index.markdown",
+		"/D/Document/repo/4everer.github.io/_config.yml",
+		"/D/Document/repo/4everer.github.io/_layouts/base.html",
+		"/D/Document/repo/4everer.github.io/_includes/footer.html",
+		"/D/Document/repo/4everer.github.io/_includes/share.html",
+		"/D/Document/repo/4everer.github.io/_includes/copyright.html",
+		"/C/Users/guang/AppData/Local/Temp/Rar$DRa0.517/_config.yml",
+		"/D/Document/repo/4everer.github.io/index.md",
+		"/D/Document/repo/4everer.github.io/README.md",
+		"/C/Users/guang/AppData/Local/Temp/Rar$DRa0.559/_includes/footer.html",
+		"/D/Document/repo/4everer.github.io/_posts/research/2015-11-16-hacat-cells-protocol.markdown",
+		"/C/Users/guang/AppData/Local/Temp/Rar$DRa0.836/_config.yml",
+		"/D/Document/repo/other/suyan.github.io/_config.yml",
+		"/D/Document/repo/4everer.github.io/about.markdown",
+		"/D/Document/repo/other/suyan.github.io/_includes/header.html",
+		"/D/Document/repo/other/suyan.github.io/_includes/disqus.html",
+		"/D/Document/repo/other/suyan.github.io/_site/2015/11/17/hello-world.html",
+		"/D/Document/repo/other/suyan.github.io/assets/css/style.css",
+		"/D/Document/repo/other/suyan.github.io/assets/css/pygments.css",
+		"/D/Document/repo/4everer.github.io/index.html",
+		"/D/Document/repo/4everer.github.io/_layouts/page.html",
+		"/D/Document/repo/4everer.github.io/_layouts/post.html",
+		"/D/Document/repo/other/suyan.github.io/_layouts/post.html",
+		"/D/Document/repo/other/suyan.github.io/_layouts/page.html",
+		"/D/Document/repo/4everer.github.io/_posts/programming/2015-11-15-django-tutorial.markdown",
+		"/D/Document/repo/4everer.github.io/_posts/resource/2014-11-18-VPS-config.markdown",
+		"/D/Document/repo/4everer.github.io/_posts/programming/2015-11-7-EBML-Note.markdown",
+		"/D/Document/repo/4everer.github.io/_posts/programming/2015-11-18-django-basic.markdown",
+		"/D/Document/repo/4everer.github.io/_posts/others/2015-11-17-hello-world.markdown",
+		"/D/Document/repo/4everer.github.io/_posts/others/2015-11-17-welcome-to-jekyll.markdown",
+		"/D/Document/repo/4everer.github.io/_posts/programming/2014-11-18-linux-user-config.markdown",
+		"/D/Document/repo/4everer.github.io/_posts/tech/2014-11-18-linux-user-config.markdown",
+		"/D/Document/repo/4everer.github.io/_posts/tech/2014-11-18-VPS-config.markdown",
+		"/D/Document/repo/4everer.github.io/_posts/tech/2015-11-15-django-tutorial.markdown",
+		"/D/Document/repo/4everer.github.io/_posts/tech/2015-11-18-django-basic.markdown",
+		"/D/Document/repo/4everer.github.io/_posts/tech/2015-11-7-EBML-Note.markdown",
+		"/D/Document/repo/4everer.github.io/_posts/2015-11-17-hello-world.markdown",
+		"/D/Document/repo/4everer.github.io/_posts/tool/2015-11-17-hello-world.markdown",
+		"/D/Document/repo/4everer.github.io/_posts/tool/2015-11-17-welcome-to-jekyll.markdown",
+		"/D/Document/repo/4everer.github.io/_drafts/2014-11-18-linux-user-config.md",
+		"/D/Document/repo/4everer.github.io/_drafts/2014-11-18-VPS-config.md",
+		"/D/Document/repo/4everer.github.io/_drafts/2015-11-15-django-tutorial.md",
+		"/D/Document/repo/4everer.github.io/_drafts/2015-11-16-hacat-cells-protocol.md",
+		"/D/Document/repo/4everer.github.io/_drafts/2015-11-18-django-basic.markdown",
+		"/D/Document/repo/4everer.github.io/_drafts/2015-11-7-EBML-Note.md",
+		"/D/Document/repo/4everer.github.io/_drafts/django tutorial.md",
+		"/D/Document/repo/4everer.github.io/_posts/2015-11-17-welcome-to-jekyll.markdown",
+		"/D/Document/repo/4everer.github.io/_drafts/django basic.md",
+		"/D/Document/repo/4everer.github.io/_draft/django basic.md",
+		"/D/Document/repo/4everer.github.io/_draft/django tutorial.md",
+		"/D/Document/repo/mine/test/face_swap/face_swap.py",
+		"/D/Document/repo/mkdocs/my-site/mkdocs.yml",
+		"/D/Document/repo/mkdocs/my-site/docs/research/hacat cells protocol.md",
+		"/D/Document/repo/mkdocs/my-site/docs/love/applicationProgress.md",
+		"/D/Document/repo/mkdocs/my-site/docs/notes/django tutorial.md",
+		"/D/Document/repo/mkdocs/my-site/docs/notes/django basic.md",
+		"/D/Document/repo/mkdocs/my-site/docs/python/django_basic.md",
+		"/F/emblCourse/emblCourse/note.md",
+		"/C/Users/guang/AppData/Roaming/Sublime Text 3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/C/Users/guang/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/guang/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/guang/Desktop/bof-11.txt",
+		"/D/Document/repo/Django/mysite/polls/admin.py",
+		"/D/Document/repo/Django/mysite/polls/models.py",
+		"/D/Document/repo/Django/mysite/mysite/settings.py",
+		"/D/Document/repo/Django/mysite/templates/admin/base_site.html",
+		"/D/Document/personal/love/writingMD/fillTheFormForApp.md",
+		"/D/Document/repo/mkdocs/my-site/docs/index.md",
+		"/D/Document/repo/mkdocs/my-site/docs/linux/vps_config.md",
+		"/D/Document/repo/mkdocs/my-site/docs/linux_user_config.md",
+		"/D/Document/repo/mkdocs/my-site/docs/vps_config.md",
+		"/D/Document/repo/mkdocs/my-site/docs/about.md",
+		"/D/Document/personal/love/writingLatex/new_.tex",
+		"/C/Users/guang/AppData/Roaming/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
+		"/C/Users/guang/AppData/Roaming/Sublime Text 3/Packages/Anaconda/README.md",
+		"/C/Users/guang/AppData/Roaming/Sublime Text 3/Packages/MarkdownEditing/README.md",
+		"/C/Users/guang/AppData/Roaming/Sublime Text 3/Packages/R-Box/R-Box.sublime-settings",
+		"/C/Users/guang/AppData/Roaming/Sublime Text 3/Packages/Git/Git.sublime-settings",
+		"/D/Document/repo/mine/hackerrank/Algorithms/sorting/findKthElement.py",
+		"/D/Document/repo/mine/hackerrank/Algorithms/sorting/quickSortInPlace.py",
+		"/D/Document/repo/mine/hackerrank/Algorithms/sorting/insertionSort.py",
+		"/C/Users/guang/_gvimrc",
+		"/C/Program Files (x86)/Vim/_vimrc",
+		"/C/Users/guang/Desktop/test.py",
+		"/D/Document/personal/love/applicationProgress.md",
+		"/D/Document/personal/love/writingMD/barclaysMotivation.md",
+		"/D/Document/personal/love/writingMD/cv_workingDraft.md",
+		"/D/Document/personal/love/writingLatex/newUKcoverLetter.tex",
+		"/C/Users/guang/AppData/Roaming/Sublime Text 3/Packages/LaTeXTools/Default (Windows).sublime-keymap",
+		"/C/Users/guang/AppData/Roaming/Sublime Text 3/Packages/User/LaTeXTools.sublime-settings",
+		"/D/Document/personal/love/writingMD/boa_divisionInfo.md",
+		"/D/Document/personal/love/writingMD/professionalExp.md",
+		"/D/Document/personal/travel/germanyNov2015.md",
+		"/D/Document/repo/mine/hackerrank/functionalProgramming/test.scala",
+		"/D/Document/current/scala/hackerrank/src/sierpinskiTriangles.scala",
+		"/D/Document/repo/mine/hackerrank/functionalProgramming/recursive.scala (worksheet)",
+		"/D/Document/repo/mine/hackerrank/functionalProgramming/recursive.scala",
+		"/C/Users/guang/Desktop/ncb3215.ris"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 119.0,
+		"where_history":
+		[
+			"D:\\Document\\repo\\other\\fengzhichu-theme",
+			"<project>"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"hsbc",
+			"   ",
+			"challenge",
+			"skill",
+			"call vundle#end",
+			"I have g",
+			"fa fa-fw fa-behance",
+			"find",
+			"foot",
+			"href",
+			".",
+			"kbd",
+			"Predictor_pa",
+			"course",
+			"Set",
+			"\n$",
+			" ",
+			"gac",
+			"cct",
+			"acatgccgaggtaaaaaaagtacattctgggaaaatatcactgacactcaaagccatttttatttccaatacgtatttcaatatatgttttgtttctacctttcccagtgccaaaaaagaagaggaggagatgaaaagaaaaaactagttacaagttggattatatgaaaactggtgccacagttgacctaaaaatatccaactcttacttaaatattgcaatttagggatttcaagttcaaaaccaaaaggcaaagccagtaggtaatttttttctttaaataaacagaacttcactgatttctcttaaaagggttgaaaagcttttattgtcccacctaatctagttgttctttctaatcctattatctgacatggggttttcccataaccctcttgctctccaggtaacaatttggagcccagggaaagaggttcaagctttattacattccacagaattatggccacatgtatatttaaataagctcattttctgctccctcttgtggatgggagggagaagggcaaatgtatacataacatattttcaattactgtataaatcttctactcgaaccatttcaacagcaaataaacccattgttcaatgcaaagtgcaaatagcgaaacgtgaacttaaataattgggctagaccctgcatacacaataggatctatttagatttacagcttttaatacaatataaatcagcattcacaatatcttacctttaactg",
+			"  ",
+			">",
+			"> ",
+			"skill",
+			"mg",
+			"skill",
+			"'\n",
+			"___",
+			"#",
+			"- [ ] open question",
+			"[ ] open question",
+			"s.wu17@lse.ac.uk\n11",
+			"w.su17@lse.ac.uk",
+			".\n",
+			"J.P. Morgan",
+			"*",
+			"equal",
+			"grid",
+			"Grid",
+			"grid",
+			"raw_input",
+			"col",
+			"Col",
+			"col",
+			"Col",
+			"col",
+			"c",
+			"row",
+			"ctrl+b",
+			"raw_input",
+			"gridBaseStr",
+			"()",
+			"python",
+			"Python",
+			"name",
+			"trans",
+			"routed",
+			"routec",
+			"stopd",
+			"stopc",
+			"stopd",
+			"stopc",
+			"routeb",
+			"routea",
+			"stopb",
+			"stopa",
+			"ring_set",
+			"ring_list",
+			"break_ring",
+			"1",
+			"bins",
+			"hist",
+			"bins",
+			"hist",
+			"c_dic",
+			"data",
+			"unique",
+			"data",
+			"tabs"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/D/Document/personal/love/writingMD/mdWritingForBBaPP.sublime-project",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 87,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"WordCountShouldRun": false,
+							"WordCountSyntax": "json",
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 35.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 253.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 174.0
+	},
+	"pinned_build_system": "Packages/LaTeXTools/LaTeX.sublime-build",
+	"project": "github.io.sublime-project",
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 176.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

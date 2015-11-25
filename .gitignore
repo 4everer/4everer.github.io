@@ -2,3 +2,4 @@ _site/
 .DS_Store
 .idea/
 _posts/samples/
+*.sublime-project
