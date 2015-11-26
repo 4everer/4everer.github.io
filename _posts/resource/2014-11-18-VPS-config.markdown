@@ -109,6 +109,7 @@ remoteip 10.99.99.100-199
 `sudo nano /etc/ufw/before.rules`
 
 会打开文本编辑，在文本最开始处复制添加如下内容，不要做任何修改，
+
 ``` bash
 # NAT table rules
 *nat
